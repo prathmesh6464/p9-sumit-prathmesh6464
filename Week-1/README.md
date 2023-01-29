@@ -1,10 +1,12 @@
-Exercise1.1:
+# Pesto Assignments
 
-Digaram :
+Welcome to Pesto assignments.
 
-Web Browser Image.png
-                                       									
-	
+<h1 align="center">
+  <br>
+  <img src="C:\Users\tanta\OneDrive\Desktop\Web Browser Image.png" alt="Component of Web Browser" width="160">
+</h1>
+
 The main functionality of the browser :
 By using web browser, anyone can access webpage for getting information and web browser works on client - server model.
 
@@ -32,9 +34,8 @@ step 8 - DOM element is used by JavaScript. JavaScript code is paresed by javasc
 step 9 - After parsing html css data by rendering engine, it displays data to user interface, Browser engine is interface 
 		 between rendering engine and User Interface.
 step 10- If We click button on Web browser then process to hit target is as follow :
-		 		 
-		 Diagram :
-
-								  --------------->    Capture Phase     ----------->
-			Window of Web page (button clicked) -> Document -> HTML -> BODY -> button (Target Phase)
-								  <---------------    Bubbling Phase    <----------- 
+            Diagram :
+<h1 align="center">
+  <br>
+  <img src="C:\Users\tanta\OneDrive\Desktop\Web Browser Image.png" alt="Component of Web Browser" width="160">
+</h1>
