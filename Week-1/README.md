@@ -2,19 +2,9 @@ Exercise1.1:
 
 Digaram :
 
-					  UI Backend
-					       /\
-						   ||
-						   \/						
-  User Interface <--> Browser Engine <--> Rendering engine <--> Networking (HTTP request to server) 
-					       /\							   <--> JavaScript Interpreter
-						   ||                              
-					       \/
-					Data Persistence layer
-	                                               									
+Web Browser Image.png
+                                       									
 	
-
-
 The main functionality of the browser :
 By using web browser, anyone can access webpage for getting information and web browser works on client - server model.
 
