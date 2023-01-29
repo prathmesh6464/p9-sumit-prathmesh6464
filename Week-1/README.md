@@ -4,7 +4,7 @@ Welcome to Pesto assignments.
 
 <h1 align="center">
   <br>
-  <img src="C:\Users\tanta\OneDrive\Desktop\Web Browser Image.png" alt="Component of Web Browser" width="160">
+  <img src="images\Web Browser Image.png" alt="Component of Web Browser" width="160">
 </h1>
 
 The main functionality of the browser :
@@ -37,5 +37,5 @@ step 10- If We click button on Web browser then process to hit target is as foll
             Diagram :
 <h1 align="center">
   <br>
-  <img src="C:\Users\tanta\OneDrive\Desktop\Web Browser Image.png" alt="Component of Web Browser" width="160">
+  <img src="images\Web Browser Image2.png" alt="Component of Web Browser" width="160">
 </h1>
