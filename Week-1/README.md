@@ -21,18 +21,27 @@ High Level Components of a browser is as follows :
 7.  Data persistence layer	: Used to store and receive cache, cookies etc.
 
 For fetching web site on browser need to do following steps :
+
 step 1 - After writing URL on address bar click on Enter button
+
 step 2 - For searching ip address request goes from browser to DNS or first it searches in Cache, cookies.
 			(Data persistence layer stores data localy, In Data persistencelayer, Browser engine stores cache, cookies etc. to Data 
 			persistence layer)
+
 step 3 - DNS gives ip address to browser engine 
+
 step 4 - Browser engine sends request to rendering engine 
+
 step 5 - Redering engine sends to Networking layer, rendering engine sends Request to ip address which was received by DNS Server
+
 step 6 - IP address matches with Expected server, server send reponse to rendering engine.	     		
+
 step 7 - Rendering engine forms the DOM Structure of HTML and CSS, this DOM is in format of Tree structure.
+
 step 8 - DOM element is used by JavaScript. JavaScript code is paresed by javascript interpreter.
-step 9 - After parsing html css data by rendering engine, it displays data to user interface, Browser engine is interface 
-		 between rendering engine and User Interface.
+
+step 9 - After parsing html css data by rendering engine, it displays data to user interface, Browser engine is interface between rendering engine and User Interface.
+
 step 10- If We click button on Web browser then process to hit target is as follow :
             Diagram :
 <h1 align="center">
