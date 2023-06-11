@@ -9,3 +9,5 @@
 **BOLD**
 __BOLD__        
 
+*Italics*
+_italics_
