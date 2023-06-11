@@ -5,6 +5,3 @@
 ##### Heading5
 ###### Heading6
 ####### Heading7
-
-**BOLD**
-__BOLD__
