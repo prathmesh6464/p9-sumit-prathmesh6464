@@ -11,3 +11,5 @@ __BOLD__
 
 *Italics*
 _italics_
+
+~~999~~rs 599rs
