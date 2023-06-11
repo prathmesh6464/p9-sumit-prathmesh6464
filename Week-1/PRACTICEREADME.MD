@@ -7,7 +7,5 @@
 ####### Heading7
 
 **BOLD**
-__BOLD__
+__BOLD__        
 
-*Italic*
-_Italic*
