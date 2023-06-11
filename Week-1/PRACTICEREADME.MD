@@ -14,7 +14,7 @@ _italics_
 
 ~~999~~rs 599rs
 
-Order List
+# Order List
 
 1. one
     1 .one
@@ -30,7 +30,7 @@ Order List
     2. two
     3. three
 
-Unoder list
+# Unoder list
 
 - One
     - one
@@ -49,6 +49,18 @@ Unoder list
     - two
         - one    
 
+# Web site Link
 [Home_Page](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjx4Jzkpbv_AhWhXWwGHfgSAjcQPAgI "Google")
 
+# Image Link
 ![Image of Pesto](https://www.google.com/search?q=pesto+tech+image&rlz=1C1UEAD_enIN1057IN1057&sxsrf=APwXEdcZ1LaMnAZivsTgFpRz1EO8JMXw6w:1686489395732&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjghubKprv_AhWJbmwGHccNCy8Q0pQJegQIAhAC&biw=1536&bih=714&dpr=1.25#imgrc=uhntaKvUGI7lKM "Pesto Image link")
+
+# code writting in ```code``` or `keyword of code `
+- #### code (for multiple line use \```multiple lines of code\```)
+    - ```
+        for (int i=0; i<5;i++){
+            system.out.println("value of i = " +i)
+        }
+        ```
+- #### keyword (for single word use \`word\` )
+    - use of `let` keyword in javascript
