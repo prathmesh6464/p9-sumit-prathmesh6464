@@ -57,10 +57,17 @@ _italics_
 
 # code writting in ```code``` or `keyword of code `
 - #### code (for multiple line use \```multiple lines of code\```)
-    - ```
+    - ``` java
         for (int i=0; i<5;i++){
-            system.out.println("value of i = " +i)
+            system.out.println("value of i = " +i);
         }
         ```
+    - ``` python
+        print();
+        for(i=0;i<5:i++){
+            print(i);
+        }
+    ```
+
 - #### keyword (for single word use \`word\` )
     - use of `let` keyword in javascript
