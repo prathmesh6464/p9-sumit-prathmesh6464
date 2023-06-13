@@ -48,3 +48,5 @@ step 10- If We click button on Web browser then process to hit target is as foll
 								  --------------->    Capture Phase     ----------->
 			Window of Web page (button clicked) -> Document -> HTML -> BODY -> button (Target Phase)
 								  <---------------    Bubbling Phase    <----------- 
+
+Reference - https://web.dev/howbrowserswork/#introduction
