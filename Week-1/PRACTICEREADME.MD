@@ -68,8 +68,17 @@ _italics_
             print(i);
         }
     ```
-
 - #### keyword (for single word use \`word\` )
     - use of `let` keyword in javascript
 
 > Hello learn code here
+
+genetating lines using (astric,underscore and minus sign all this 3 times)
+
+***
+
+
+---
+
+
+____
