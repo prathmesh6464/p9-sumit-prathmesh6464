@@ -14,19 +14,19 @@ paragraph of 2nd heading
 
 ### Starting Emmit
 
-paragraph of 3rd heading, only 1 & 2nd heading is paragraph line is being shown
+paragraph of 3rd heading, only for 1 & 2nd heading, paragraph's line is being shown
 
 #### Starting Emmit
 
-paragraph of 4rth heading, only 1 & 2nd heading is paragraph line is being shown
+paragraph of 4rth heading, only for 1 & 2nd heading, paragraph's line is being shown
 
 ##### Starting Emmit
 
-paragraph of 5th heading, only 1 & 2nd heading is paragraph line is being shown
+paragraph of 5th heading, only for 1 & 2nd heading, paragraph's line is being shown
 
 ###### Starting Emmit
 
-paragraph of 6th heading, only 1 & 2nd heading is paragraph line is being shown
+paragraph of 6th heading, only for 1 & 2nd heading, paragraph's line is being shown
 
 ####### Starting Emmit, it will not work because 7 times # has been written<!-- can not use 7th heading, heading valid only till 6th Heading-->
 
