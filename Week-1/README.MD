@@ -57,4 +57,8 @@ JavaScript interpreter is a component within the browser that executes JavaScrip
 
 The model of the web is synchronous. Authors expect scripts to be parsed and executed immediately when the parser reaches a `<script>` tag. The parsing of the document halts until the script has been executed. If the script is external then the resource must first be fetched from the network, this is also done synchronously, and parsing halts until the resource is fetched. This was the model for many years and is also specified in HTML4 and 5 specifications. Authors can add the "defer" attribute to a script, in which case it won't halt document parsing and will execute after the document is parsed. HTML5 adds an option to mark the script as asynchronous so it will be parsed and executed by a different thread.
 
+### script processing in case of DOM and CSS-OM
+
+![DOM and CSS-OM Cases](./Images/javascript%20execution%20cases.png "DOM and CSS-OM Cases")
+
 # Layout and Painting
